@@ -9,6 +9,6 @@ setMentorOrLearner() : Set whether the participant is learner or mentor
 setAvailableTime() : if person is mentor set available time                                                           
 getMentor() : Takes stack and time as params and finds available mentors.                                                    
 Please use the same method names.                                                                                
-
-Resource provided by TinkerHub for reference: 
+_______________________________________________________________________________________________________________________________
+Resource provided by TinkerHub for reference:                                                                                              
 https://www.tutorialspoint.com/python/python_classes_objects.htm
