@@ -22,8 +22,8 @@ class Learn_from_Home:
         role=int(input("\nDo you wish to be\n1.Mentor\n2.Learner\n\nEnter your choice(1 or 2): "))        
         if name in self.details:
             self.details[name]["role"]=role
-        #else:
-        #   self.details[name]={"stack":False,"role":role,"available_time":False}
+        else:
+            self.details[name]={"stack":False,"role":role,"available_time":False}
         return
         
 
