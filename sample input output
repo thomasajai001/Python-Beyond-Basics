@@ -1,0 +1,137 @@
+
+
+_____________Participant Details____________
+
+
+Enter the name of the participant: Raj Narayanan
+
+The Stacks are:
+Python
+GO
+Web
+UI/UX
+Flutter
+
+Enter the stack for which the participant is interested in: Python
+
+Do you wish to be
+1.Mentor
+2.Learner
+
+Enter your choice(1 or 2): 1
+
+Enter available time by mentor in hours: 6
+
+Do you want to enter the details of another participnt?(y/n): y
+
+
+_____________Participant Details____________
+
+
+Enter the name of the participant: Dheeraj
+
+The Stacks are:
+Python
+GO
+Web
+UI/UX
+Flutter
+
+Enter the stack for which the participant is interested in: Flutter
+
+Do you wish to be
+1.Mentor
+2.Learner
+
+Enter your choice(1 or 2): 2
+
+Do you want to enter the details of another participnt?(y/n): y
+
+
+_____________Participant Details____________
+
+
+Enter the name of the participant: Hari U
+
+The Stacks are:
+Python
+GO
+Web
+UI/UX
+Flutter
+
+Enter the stack for which the participant is interested in: Flutter
+
+Do you wish to be
+1.Mentor
+2.Learner
+
+Enter your choice(1 or 2): 1
+
+Enter available time by mentor in hours: 3
+
+Do you want to enter the details of another participnt?(y/n): y
+
+
+_____________Participant Details____________
+
+
+Enter the name of the participant: Alby J.
+
+The Stacks are:
+Python
+GO
+Web
+UI/UX
+Flutter
+
+Enter the stack for which the participant is interested in: Flutter
+
+Do you wish to be
+1.Mentor
+2.Learner
+
+Enter your choice(1 or 2): 1
+
+Enter available time by mentor in hours: 5
+
+Do you want to enter the details of another participnt?(y/n): n
+
+
+_____________Get Mentor____________
+
+
+The Stacks are:
+Python
+GO
+Web
+UI/UX
+Flutter
+
+Enter a stack: Flutter
+Enter the time in hours: 3
+
+The available mentors are: 
+Hari U 
+Alby J. 
+
+Do you want to check the mentor availability of another stack and time?(y/n): y
+
+
+_____________Get Mentor____________
+
+
+The Stacks are:
+Python
+GO
+Web
+UI/UX
+Flutter
+
+Enter a stack: Python
+Enter the time in hours: 3
+
+The available mentors are: 
+Raj Narayanan 
+
+Do you want to check the mentor availability of another stack and time?(y/n): n
