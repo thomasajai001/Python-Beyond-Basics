@@ -10,7 +10,7 @@ class Learn_from_Home:
         if name in self.details:
             self.details[name]["stack"]=stack
         else:
-            self.details[name]={"stack":stack,"role":False,"available_time":False}
+            self.details[name]={"stack":stack,"role":None,"available_time":None}
         return    
            
 
@@ -23,7 +23,7 @@ class Learn_from_Home:
         if name in self.details:
             self.details[name]["role"]=role
         else:
-            self.details[name]={"stack":False,"role":role,"available_time":False}
+            self.details[name]={"stack":None,"role":role,"available_time":None}
         return
         
 
@@ -37,7 +37,7 @@ class Learn_from_Home:
             if name in self.details:
                 self.details[name]["available_time"]=avail_time
             else:
-                self.details[name]={"stack":False,"role":False,"available_time":avail_time}
+                self.details[name]={"stack":None,"role":None,"available_time":avail_time}
         return
         
 
